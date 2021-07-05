@@ -1,3 +1,3 @@
-# starter-joey-thinkful
+# Nicole Thinkful Resume Exercise
 
-This repo contains the starter and solution code for the Joey Thinkful resume exercise.
+This repo contains the code for my resume exercise based off of the joey-thinkful-resume starter code.
