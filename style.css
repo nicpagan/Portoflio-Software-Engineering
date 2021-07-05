@@ -4,7 +4,7 @@ body {
   
   header {
     /* Sets background color to black */
-    background-color: #000;
+    background-color: #0B1C51;
     /* Adds 40 px of space under the header so that
     the main content isn't so close to the navigation */
     margin-bottom: 40px;
@@ -12,6 +12,8 @@ body {
   
   /* The header h1 selector targets the title of your document. */
   header h1 {
+    /* font size for mobile */
+    font-size: 52px;
     /* sets text color to white */
     color: #fff;
     /* centers text */
@@ -50,6 +52,8 @@ body {
   
   /* targets the anchor tag (link) of the list items within the unordered list that is within the header's nav container. */
   header nav ul li a {
+    /* set font to Montserrat */
+    font-family: Montserrat;
     /* The link color is white. */
     color: #fff;
     /* Removes the underline from the link. */
@@ -79,6 +83,8 @@ body {
     }
   
     header h1 {
+     /* font size for desktop*/
+     font-size: 48px;
       /* sets 14px margin above and below h1 and sets 0px of margin the left and right  */
       margin: 14px 0;
       /* removes or sets 0px of padding above h1 */
